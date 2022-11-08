@@ -1,0 +1,4 @@
+outs:
+- md5: 4057d5c33d56872560ca1811445bb0fd
+  size: 82156
+  path: classifier.ipynb

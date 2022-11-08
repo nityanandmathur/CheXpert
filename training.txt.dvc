@@ -1,0 +1,4 @@
+outs:
+- md5: 5a2cfa27d42042ea58fd11bb4fb778f6
+  size: 10768
+  path: training.txt

@@ -1,0 +1,4 @@
+outs:
+- md5: 4bb0b76d38092312daa178d8de29b05a
+  size: 2418
+  path: loss.py
