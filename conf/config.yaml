@@ -1,0 +1,6 @@
+params:
+  "batch_size": 32,
+  "learning_rate": 0.01,
+  "training_epoch": 30,
+  "num_gpus": 4
+

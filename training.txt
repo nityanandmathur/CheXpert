@@ -1,0 +1,121 @@
+
+Epoch 1: val_auc improved from -inf to 0.64034, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2120s 361ms/step - loss: 2.1330 - auc: 0.6233 - accuracy: 0.1256 - val_loss: 2.7376 - val_auc: 0.6403 - val_accuracy: 0.0112 - lr: 0.0100
+Epoch 2/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.9690 - auc: 0.6699 - accuracy: 0.1663
+Epoch 2: val_auc improved from 0.64034 to 0.70101, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2340s 419ms/step - loss: 1.9690 - auc: 0.6699 - accuracy: 0.1663 - val_loss: 2.6972 - val_auc: 0.7010 - val_accuracy: 0.1976 - lr: 0.0100
+Epoch 3/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.8848 - auc: 0.6965 - accuracy: 0.1890
+Epoch 3: val_auc improved from 0.70101 to 0.72435, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2336s 418ms/step - loss: 1.8848 - auc: 0.6965 - accuracy: 0.1890 - val_loss: 1.9845 - val_auc: 0.7243 - val_accuracy: 0.1885 - lr: 0.0100
+Epoch 4/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.8306 - auc: 0.7163 - accuracy: 0.2010
+Epoch 4: val_auc improved from 0.72435 to 0.74038, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2200s 394ms/step - loss: 1.8306 - auc: 0.7163 - accuracy: 0.2010 - val_loss: 1.8796 - val_auc: 0.7404 - val_accuracy: 0.2054 - lr: 0.0100
+Epoch 5/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.7902 - auc: 0.7304 - accuracy: 0.2100
+Epoch 5: val_auc improved from 0.74038 to 0.74502, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2294s 411ms/step - loss: 1.7902 - auc: 0.7304 - accuracy: 0.2100 - val_loss: 1.9823 - val_auc: 0.7450 - val_accuracy: 0.1571 - lr: 0.0100
+Epoch 6/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.7624 - auc: 0.7404 - accuracy: 0.2153
+Epoch 6: val_auc improved from 0.74502 to 0.74784, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 1910s 342ms/step - loss: 1.7624 - auc: 0.7404 - accuracy: 0.2153 - val_loss: 1.9034 - val_auc: 0.7478 - val_accuracy: 0.2212 - lr: 0.0100
+Epoch 7/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.7417 - auc: 0.7478 - accuracy: 0.2187
+Epoch 7: val_auc did not improve from 0.74784
+5586/5586 [==============================] - 2020s 362ms/step - loss: 1.7417 - auc: 0.7478 - accuracy: 0.2187 - val_loss: 1.9604 - val_auc: 0.7433 - val_accuracy: 0.1919 - lr: 0.0100
+Epoch 8/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.7281 - auc: 0.7533 - accuracy: 0.2218
+Epoch 8: val_auc improved from 0.74784 to 0.76216, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2324s 416ms/step - loss: 1.7281 - auc: 0.7533 - accuracy: 0.2218 - val_loss: 1.7364 - val_auc: 0.7622 - val_accuracy: 0.2143 - lr: 0.0100
+Epoch 9/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.7153 - auc: 0.7582 - accuracy: 0.2241
+Epoch 9: val_auc did not improve from 0.76216
+5586/5586 [==============================] - 2278s 408ms/step - loss: 1.7153 - auc: 0.7582 - accuracy: 0.2241 - val_loss: 1.8666 - val_auc: 0.7571 - val_accuracy: 0.2529 - lr: 0.0100
+Epoch 10/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.7037 - auc: 0.7619 - accuracy: 0.2268
+Epoch 10: val_auc did not improve from 0.76216
+5586/5586 [==============================] - 1774s 318ms/step - loss: 1.7037 - auc: 0.7619 - accuracy: 0.2268 - val_loss: 1.9422 - val_auc: 0.7483 - val_accuracy: 0.1824 - lr: 0.0100
+Epoch 11/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6956 - auc: 0.7657 - accuracy: 0.2291
+Epoch 11: val_auc did not improve from 0.76216
+5586/5586 [==============================] - 1785s 319ms/step - loss: 1.6956 - auc: 0.7657 - accuracy: 0.2291 - val_loss: 1.8858 - val_auc: 0.7519 - val_accuracy: 0.2222 - lr: 0.0100
+Epoch 12/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6873 - auc: 0.7691 - accuracy: 0.2296
+Epoch 12: val_auc improved from 0.76216 to 0.76639, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2208s 395ms/step - loss: 1.6873 - auc: 0.7691 - accuracy: 0.2296 - val_loss: 1.7086 - val_auc: 0.7664 - val_accuracy: 0.2510 - lr: 0.0100
+Epoch 13/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6808 - auc: 0.7706 - accuracy: 0.2300
+Epoch 13: val_auc did not improve from 0.76639
+5586/5586 [==============================] - 1879s 336ms/step - loss: 1.6808 - auc: 0.7706 - accuracy: 0.2300 - val_loss: 1.8706 - val_auc: 0.7659 - val_accuracy: 0.1617 - lr: 0.0100
+Epoch 14/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6733 - auc: 0.7736 - accuracy: 0.2318
+Epoch 14: val_auc improved from 0.76639 to 0.76941, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 1827s 327ms/step - loss: 1.6733 - auc: 0.7736 - accuracy: 0.2318 - val_loss: 1.7722 - val_auc: 0.7694 - val_accuracy: 0.2425 - lr: 0.0100
+Epoch 15/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6679 - auc: 0.7764 - accuracy: 0.2330
+Epoch 15: val_auc improved from 0.76941 to 0.77322, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 1932s 346ms/step - loss: 1.6679 - auc: 0.7764 - accuracy: 0.2330 - val_loss: 1.7086 - val_auc: 0.7732 - val_accuracy: 0.2395 - lr: 0.0100
+Epoch 16/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6618 - auc: 0.7790 - accuracy: 0.2342
+Epoch 16: val_auc did not improve from 0.77322
+5586/5586 [==============================] - 2321s 416ms/step - loss: 1.6618 - auc: 0.7790 - accuracy: 0.2342 - val_loss: 1.7493 - val_auc: 0.7729 - val_accuracy: 0.2494 - lr: 0.0100
+Epoch 17/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6566 - auc: 0.7804 - accuracy: 0.2344
+Epoch 17: val_auc did not improve from 0.77322
+5586/5586 [==============================] - 2125s 380ms/step - loss: 1.6566 - auc: 0.7804 - accuracy: 0.2344 - val_loss: 1.7625 - val_auc: 0.7605 - val_accuracy: 0.2232 - lr: 0.0100
+Epoch 18/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6487 - auc: 0.7830 - accuracy: 0.2373
+Epoch 18: val_auc improved from 0.77322 to 0.77615, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 1891s 339ms/step - loss: 1.6487 - auc: 0.7830 - accuracy: 0.2373 - val_loss: 1.7773 - val_auc: 0.7762 - val_accuracy: 0.1926 - lr: 0.0100
+Epoch 19/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6448 - auc: 0.7850 - accuracy: 0.2363
+Epoch 19: val_auc did not improve from 0.77615
+5586/5586 [==============================] - 1811s 324ms/step - loss: 1.6448 - auc: 0.7850 - accuracy: 0.2363 - val_loss: 1.8077 - val_auc: 0.7614 - val_accuracy: 0.1881 - lr: 0.0100
+Epoch 20/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6383 - auc: 0.7870 - accuracy: 0.2377
+Epoch 20: val_auc did not improve from 0.77615
+5586/5586 [==============================] - 1821s 326ms/step - loss: 1.6383 - auc: 0.7870 - accuracy: 0.2377 - val_loss: 1.8023 - val_auc: 0.7716 - val_accuracy: 0.2495 - lr: 0.0100
+Epoch 21/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6327 - auc: 0.7891 - accuracy: 0.2380
+Epoch 21: val_auc did not improve from 0.77615
+5586/5586 [==============================] - 1810s 324ms/step - loss: 1.6327 - auc: 0.7891 - accuracy: 0.2380 - val_loss: 1.6977 - val_auc: 0.7744 - val_accuracy: 0.2257 - lr: 0.0100
+Epoch 22/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6279 - auc: 0.7916 - accuracy: 0.2387
+Epoch 22: val_auc did not improve from 0.77615
+5586/5586 [==============================] - 1718s 308ms/step - loss: 1.6279 - auc: 0.7916 - accuracy: 0.2387 - val_loss: 2.0377 - val_auc: 0.7407 - val_accuracy: 0.1927 - lr: 0.0100
+Epoch 23/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.6224 - auc: 0.7937 - accuracy: 0.2392
+Epoch 23: ReduceLROnPlateau reducing learning rate to 0.0009999999776482583.
+
+Epoch 23: val_auc did not improve from 0.77615
+5586/5586 [==============================] - 1839s 329ms/step - loss: 1.6224 - auc: 0.7937 - accuracy: 0.2392 - val_loss: 1.6977 - val_auc: 0.7756 - val_accuracy: 0.2344 - lr: 0.0100
+Epoch 24/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.5681 - auc: 0.8120 - accuracy: 0.2503
+Epoch 24: val_auc improved from 0.77615 to 0.77772, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 2164s 387ms/step - loss: 1.5681 - auc: 0.8120 - accuracy: 0.2503 - val_loss: 1.6842 - val_auc: 0.7777 - val_accuracy: 0.2537 - lr: 1.0000e-03
+Epoch 25/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.5501 - auc: 0.8173 - accuracy: 0.2542
+Epoch 25: val_auc improved from 0.77772 to 0.78022, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 1485s 266ms/step - loss: 1.5501 - auc: 0.8173 - accuracy: 0.2542 - val_loss: 1.6837 - val_auc: 0.7802 - val_accuracy: 0.2556 - lr: 1.0000e-03
+Epoch 26/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.5394 - auc: 0.8212 - accuracy: 0.2540
+Epoch 26: val_auc improved from 0.78022 to 0.78291, saving model to MobileNetV2.h5
+5586/5586 [==============================] - 1487s 266ms/step - loss: 1.5394 - auc: 0.8212 - accuracy: 0.2540 - val_loss: 1.6590 - val_auc: 0.7829 - val_accuracy: 0.2474 - lr: 1.0000e-03
+Epoch 27/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.5329 - auc: 0.8237 - accuracy: 0.2549
+Epoch 27: val_auc did not improve from 0.78291
+5586/5586 [==============================] - 1415s 253ms/step - loss: 1.5329 - auc: 0.8237 - accuracy: 0.2549 - val_loss: 1.6733 - val_auc: 0.7804 - val_accuracy: 0.2495 - lr: 1.0000e-03
+Epoch 28/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.5250 - auc: 0.8256 - accuracy: 0.2562
+Epoch 28: val_auc did not improve from 0.78291
+5586/5586 [==============================] - 1835s 329ms/step - loss: 1.5250 - auc: 0.8256 - accuracy: 0.2562 - val_loss: 1.6927 - val_auc: 0.7770 - val_accuracy: 0.2422 - lr: 1.0000e-03
+Epoch 29/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.5183 - auc: 0.8279 - accuracy: 0.2559
+Epoch 29: val_auc did not improve from 0.78291
+5586/5586 [==============================] - 1599s 286ms/step - loss: 1.5183 - auc: 0.8279 - accuracy: 0.2559 - val_loss: 1.6853 - val_auc: 0.7779 - val_accuracy: 0.2356 - lr: 1.0000e-03
+Epoch 30/30
+5586/5586 [==============================] - ETA: 0s - loss: 1.5139 - auc: 0.8293 - accuracy: 0.2565
+Epoch 30: val_auc did not improve from 0.78291
+5586/5586 [==============================] - 1795s 321ms/step - loss: 1.5139 - auc: 0.8293 - accuracy: 0.2565 - val_loss: 1.6943 - val_auc: 0.7785 - val_accuracy: 0.2474 - lr: 1.0000e-03
