@@ -52,3 +52,7 @@ MANIFEST
 .venv*/
 .conda*/
 .python-version
+
+./src/chexpert/.ipynb_checkpoints
+./data
+./models
