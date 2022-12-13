@@ -1,4 +1,4 @@
-name: tensorflow
+name: chexpert
 channels:
   - defaults
   - conda-forge

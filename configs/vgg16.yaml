@@ -1,0 +1,14 @@
+params:
+  model: vgg16
+  batch_size: 32
+  learning_rate: 0.001
+  training_epoch: 25
+  img_size: 224
+  no_gpu: 2
+
+data:
+  data_dir: "/workspaces/chexpert/data"
+
+
+model:
+  save: "/workspaces/chexpert/models/covid.h5"

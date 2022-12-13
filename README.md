@@ -1,5 +1,5 @@
-[![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
 <!-- These are examples of badges you might also want to add to your README. Update the URLs accordingly.
+[![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
 [![Built Status](https://api.cirrus-ci.com/github/<USER>/chexpert.svg?branch=main)](https://cirrus-ci.com/github/<USER>/chexpert)
 [![ReadTheDocs](https://readthedocs.org/projects/chexpert/badge/?version=latest)](https://chexpert.readthedocs.io/en/stable/)
 [![Coveralls](https://img.shields.io/coveralls/github/<USER>/chexpert/main.svg)](https://coveralls.io/r/<USER>/chexpert)
@@ -8,12 +8,12 @@
 [![Monthly Downloads](https://pepy.tech/badge/chexpert/month)](https://pepy.tech/project/chexpert)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter)](https://twitter.com/chexpert)
 -->
-
+[![CogXR Labs](logo.png)](https://cogxrlabs.com)
 # chexpert
 
-> Add a short description here!
+> Classification of X-ray images in 14 classes.
 
-A longer description of your project goes here...
+CheXpert is a large public dataset for chest radiograph interpretation, consisting of 224,316 chest radiographs of 65,240 patients. We retrospectively collected the chest radiographic examinations from Stanford Hospital, performed between October 2002 and July 2017 in both inpatient and outpatient centers, along with their associated radiology reports. Using this dataset, CogXR labs has created a model to classify X-ray images into 14 different possible diseases.
 
 ## Installation
 
@@ -31,7 +31,6 @@ In order to set up the necessary environment:
 > **_NOTE:_**  The conda environment will have chexpert installed in editable mode.
 > Some changes, e.g. in `setup.cfg`, might require you to run `pip install -e .` again.
 
-
 Optional and needed only once after `git clone`:
 
 3. install several [pre-commit] git hooks with:
@@ -48,7 +47,6 @@ Optional and needed only once after `git clone`:
    ```
    This is useful to avoid large diffs due to plots in your notebooks.
    A simple `nbstripout --uninstall` will revert these changes.
-
 
 Then take a look into the `scripts` and `notebooks` folders.
 
@@ -105,17 +103,3 @@ Then take a look into the `scripts` and `notebooks` folders.
 ├── .isort.cfg              <- Configuration for git hook that sorts imports.
 └── .pre-commit-config.yaml <- Configuration of pre-commit git hooks.
 ```
-
-<!-- pyscaffold-notes -->
-
-## Note
-
-This project has been set up using [PyScaffold] 4.3.1 and the [dsproject extension] 0.7.2.
-
-[conda]: https://docs.conda.io/
-[pre-commit]: https://pre-commit.com/
-[Jupyter]: https://jupyter.org/
-[nbstripout]: https://github.com/kynan/nbstripout
-[Google style]: http://google.github.io/styleguide/pyguide.html#38-comments-and-docstrings
-[PyScaffold]: https://pyscaffold.org/
-[dsproject extension]: https://github.com/pyscaffold/pyscaffoldext-dsproject
