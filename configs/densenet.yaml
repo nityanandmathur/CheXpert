@@ -7,8 +7,7 @@ params:
   no_gpu: 2
 
 data:
-  data_dir: "/workspaces/chexpert/data"
-
+  data_dir: "/workspaces/chexpert/data/raw/"
 
 model:
   save: "/workspaces/chexpert/models/covid.h5"
