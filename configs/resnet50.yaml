@@ -7,7 +7,14 @@ params:
   no_gpu: 2
 
 data:
-  data_dir: "/workspaces/chexpert/data"
+  data_dir: /workspaces/chexpert/data/raw/
+  raw:
+    train: /workspaces/chexpert/data/raw/CheXpert-v1.0-small/train.csv
+    test: /workspaces/chexpert/data/raw/CheXpert-v1.0-small/valid.csv
+  processed:
+    train: /workspaces/chexpert/data/processed/train.csv
+    val: /workspaces/chexpert/data/processed/val.csv
+    test: /workspaces/chexpert/data/processed/test.csv
 
 
 model:

@@ -7,4 +7,6 @@
 - Updated enviroment.yml file
 - Created configs for `densenet`, `resnet50` & `vgg16`
 - initiallized `dvc` in project
-- added preprocess_data.py and train_model.py scripts
+- added `preprocess_data.py` and `train_model.py` scripts
+- added a configuration file `data.yaml` that contains paths to all data files
+- added `data_load.py`, `loss.py` and `build_model.py` scripts
