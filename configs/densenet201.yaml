@@ -1,5 +1,5 @@
 params:
-  model: densenet
+  model: densenet201
   batch_size: 32
   learning_rate: 0.001
   training_epoch: 25
