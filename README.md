@@ -8,7 +8,7 @@
 [![Monthly Downloads](https://pepy.tech/badge/chexpert/month)](https://pepy.tech/project/chexpert)
 [![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter)](https://twitter.com/chexpert)
 -->
-[![CogXR Labs](logo.png)](https://cogxrlabs.com)
+
 # chexpert
 
 > Classification of X-ray images in 14 classes.
