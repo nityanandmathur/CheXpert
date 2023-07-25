@@ -1,5 +1,5 @@
 {
-    "name" : "Classify Covid",
+    "name" : "chexpert",
     "build" : {
         "dockerfile": "Dockerfile"
     },
