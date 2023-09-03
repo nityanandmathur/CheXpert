@@ -13,7 +13,7 @@
 
 > Classification of X-ray images in 14 classes.
 
-CheXpert is a large public dataset for chest radiograph interpretation, consisting of 224,316 chest radiographs of 65,240 patients. We retrospectively collected the chest radiographic examinations from Stanford Hospital, performed between October 2002 and July 2017 in both inpatient and outpatient centers, along with their associated radiology reports. Using this dataset, CogXR labs has created a model to classify X-ray images into 14 different possible diseases.
+CheXpert is a large public dataset for chest radiograph interpretation, consisting of 224,316 chest radiographs of 65,240 patients. We retrospectively collected the chest radiographic examinations from Stanford Hospital, performed between October 2002 and July 2017 in both inpatient and outpatient centers, along with their associated radiology reports. Using this dataset, I have created a model to classify X-ray images into 14 different possible diseases.
 
 ## Installation
 
